@@ -52,8 +52,9 @@ including the fact that not every campground on public lands uses recreation.gov
 
 # Final storyboard and dashboard created with Tableau
 
-Storyboard (https://public.tableau.com/app/profile/emma1186/viz/TheJourneyistheDestinationRVUseandPublicLands/TheJourneyistheDestinationRVUseandPublicLands)
-Dashboard Design https://public.tableau.com/app/profile/emma1186/viz/JulyTrendsRVUseonPublicLand/JulyTrendsRVUseonPublicLand
+-Storyboard (https://public.tableau.com/app/profile/emma1186/viz/TheJourneyistheDestinationRVUseandPublicLands/TheJourneyistheDestinationRVUseandPublicLands)
+
+-Dashboard Design https://public.tableau.com/app/profile/emma1186/viz/JulyTrendsRVUseonPublicLand/JulyTrendsRVUseonPublicLand
 
 #Contents:
 
@@ -63,4 +64,4 @@ Dashboard Design https://public.tableau.com/app/profile/emma1186/viz/JulyTrendsR
 
 -Scripts: Contains all the Jupyter scripts developed to clean, transform, analyze and visualize data
 
--Analysis: LINK HERE DASHBOARD LINK TOO
+-Analysis: See links above
